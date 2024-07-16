@@ -1,0 +1,9 @@
+*** if not installed: ***
+======================================
+pip install pyinstaller
+
+
+
+*** to convert .py file to .exe: ***
+======================================
+pyinstaller --onefile convert.py
